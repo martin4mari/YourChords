@@ -1,0 +1,7 @@
+<svg width="30" height="28" viewBox="0 0 30 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="6" y1="2" x2="27" y2="2" stroke="white" stroke-width="4"/>
+<line x1="26.4994" y1="2.97503" x2="27.4994" y2="22.975" stroke="white"/>
+<line x1="6.49943" y1="2.97622" x2="7.49943" y2="23.9762" stroke="white"/>
+<ellipse cx="24.8251" cy="23.3823" rx="3.82856" ry="2.53203" transform="rotate(-18.5352 24.8251 23.3823)" fill="white"/>
+<ellipse cx="4.5" cy="23.8953" rx="3.98197" ry="2.27937" transform="rotate(-18.5352 4.5 23.8953)" fill="white"/>
+</svg>
